@@ -7,8 +7,5 @@ In the space below, make a three column table of the current courses you are tak
 Course Number | Course Title | Instructor
 ------------- | ------------ | ----------
 **JPN 113**   | _Japanese 3_   | Kaoru Ohta
-------------- | ------------ | ----------
 **INFO 201**  | _Technical Foundations of Informatics_   | Michael Freeman
-------------- | ------------ | ----------
 **AES 151**   | _American Ethnic Studies_   | Rick Bonus
-------------- | ------------ | ----------
